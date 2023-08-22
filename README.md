@@ -1,7 +1,7 @@
 <h1 align="left">Olá 👋, Eu sou ou João Teodoro</h1>
 <h3 align="left">Análise de Dados, Banco de dados e BI</h3>
 
-- 🌱 Atualmente estou aprendendo ** Power BI, C++, Golang, JavaScript**
+- 🌱 Atualmente estou aprendendo **Power BI, C++, Golang, JavaScript**
 
 - 💬 Me pergunte sobre **SQL, NoSQL, Python**
 
