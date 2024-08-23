@@ -1,7 +1,6 @@
-<h1 align="left">Olá 👋, Eu sou o João Teodoro</h1>
-<h3 align="left">Análise de Dados, Banco de dados e BI</h3>
+<h3 align="left">Analista e Cientista de Dados</h3>
 
- -🌱 Atualmente estou aprendendo C++, Golang, JavaScript<br>- 💬 Me pergunte sobre SQL, NoSQL, Python, Power B.I
+ -🌱 Atualmente estou aprendendo Golang, JavaScript<br>- 💬 Me pergunte sobre SQL, NoSQL, Python, Power B.I
 
 
 ## 🌐 Socials:
