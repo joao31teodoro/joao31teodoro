@@ -14,6 +14,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joao31teodoro&theme=tokyonight&hide_border=true)</br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=joao31teodoro&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=joao31teodoro&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
